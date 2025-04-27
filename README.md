@@ -1,16 +1,16 @@
-## Thiago Henrique
+# Olá 🖖: Thiago Henrique 
+**`#Estudante`**
 
-<!--
-**ThiagoHenriqueRm/ThiagoHenriqueRm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://icongr.am/devicon/python-original.svg?size=35&color=currentColor)
+![](https://icongr.am/devicon/javascript-original.svg?size=35&color=currentColor)
+![](https://icongr.am/devicon/html5-original.svg?size=35&color=currentColor)
+![](https://icongr.am/devicon/css3-original.svg?size=35&color=currentColor)
 
-Here are some ideas to get you started:
+### Descrição:
+Olá! Meu nome é **Thiago Henrique Rodrigues Moura**, tenho **18** anos e sou apaixonado por tecnologia e programação. Gosto principalmente de **Python**, mas também me dou bem com **JavaScript**, **HTML** e **CSS**. Atualmente estou fazendo um curso técnico e sempre buscando aprender coisas novas. 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- **Gmail :** Thiagohenriquerm@gmail.com
+- **Numero :**  +55 (38) 9754-8578
+- **Intagram :** [Thiago.kk_dev](https://www.instagram.com/thiago.kk_dev?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
+---
