@@ -1,4 +1,4 @@
-# Olá 🖖: Thiago Henrique 
+# Thiago Henrique - Olá 🖖
 **`#Estudante`**
 
 ![](https://icongr.am/devicon/python-original.svg?size=35&color=currentColor)ㅤ
