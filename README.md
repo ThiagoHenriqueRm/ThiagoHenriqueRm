@@ -14,3 +14,12 @@ Olá! Meu nome é **Thiago Henrique Rodrigues Moura**, tenho **18** anos e sou a
 - **Numero :**  +55 (38) 9754-8578
 - **Intagram :** [Thiago.kk_dev](https://www.instagram.com/thiago.kk_dev?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 ---
+### Minhas Estatisticas :
+<div>
+    <td>
+      <img height="160px" src="https://github-readme-stats.vercel.app/api?username=ThiagoHenriqueRm&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
+    <td>
+      <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoHenriqueRm&layout=compact&theme=tokyonight"/>
+</div>
+
+---
