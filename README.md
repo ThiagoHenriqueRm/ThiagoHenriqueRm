@@ -1,12 +1,14 @@
 # Olá 🖖: Thiago Henrique 
 **`#Estudante`**
 
-![](https://icongr.am/devicon/python-original.svg?size=35&color=currentColor)
-![](https://icongr.am/devicon/javascript-original.svg?size=35&color=currentColor)
-![](https://icongr.am/devicon/html5-original.svg?size=35&color=currentColor)
-![](https://icongr.am/devicon/css3-original.svg?size=35&color=currentColor)
+![](https://icongr.am/devicon/python-original.svg?size=35&color=currentColor)ㅤ
+![](https://icongr.am/devicon/javascript-original.svg?size=35&color=currentColor)ㅤ
+![](https://icongr.am/devicon/html5-original.svg?size=35&color=currentColor)ㅤ
+![](https://icongr.am/devicon/css3-original.svg?size=35&color=currentColor)ㅤ
 
-### Descrição:
+---
+
+### Sobre mim:
 Olá! Meu nome é **Thiago Henrique Rodrigues Moura**, tenho **18** anos e sou apaixonado por tecnologia e programação. Gosto principalmente de **Python**, mas também me dou bem com **JavaScript**, **HTML** e **CSS**. Atualmente estou fazendo um curso técnico e sempre buscando aprender coisas novas. 🚀
 
 
