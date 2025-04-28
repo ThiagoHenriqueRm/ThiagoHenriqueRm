@@ -1,8 +1,11 @@
 # Thiago Henrique - Olá 🖖
 **`#Estudante`**
 
+### Tehno experiencia com:
 ![](https://icongr.am/devicon/python-original.svg?size=35&color=currentColor)ㅤ
+![](https://icongr.am/devicon/mysql-original-wordmark.svg?size=35&color=currentColor)ㅤ
 ![](https://icongr.am/devicon/javascript-original.svg?size=35&color=currentColor)ㅤ
+![](https://icongr.am/devicon/nodejs-original.svg?size=35&color=currentColor)ㅤ
 ![](https://icongr.am/devicon/html5-original.svg?size=35&color=currentColor)ㅤ
 ![](https://icongr.am/devicon/css3-original.svg?size=35&color=currentColor)ㅤ
 
