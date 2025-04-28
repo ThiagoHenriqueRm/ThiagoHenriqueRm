@@ -18,9 +18,9 @@ Olá! Meu nome é **Thiago Henrique Rodrigues Moura**, tenho **18** anos e sou a
 ---
 ### Minhas Estatisticas :
 <div>
-    <td>
+    <td  >
       <img height="160px" src="https://github-readme-stats.vercel.app/api?username=ThiagoHenriqueRm&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&rank_icon=github"/>
-    <td>
+    <td>ㅤ
       <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoHenriqueRm&layout=compact&theme=tokyonight&locale=pt-br&include_all_commits=true"/>
 </div>
 
