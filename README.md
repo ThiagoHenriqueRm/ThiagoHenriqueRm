@@ -16,7 +16,7 @@ Olá! Meu nome é **Thiago Henrique Rodrigues Moura**, tenho **18** anos e sou a
 - **Intagram :** [Thiago.kk_dev](https://www.instagram.com/thiago.kk_dev?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 ---
 ### Minhas Estatisticas :
-<div>
+<div align="center">
     <td  >
       <img height="160px" src="https://github-readme-stats.vercel.app/api?username=ThiagoHenriqueRm&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&rank_icon=github"/>
     <td>ㅤ
