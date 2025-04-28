@@ -27,8 +27,8 @@ Olá! Meu nome é **Thiago Henrique Rodrigues Moura**, tenho **18** anos e sou a
 
 ### Atualmente estou: 
 
-* Terminando um curso técnico de "Analise e Desenvolvimento de Sistemas " 
-* Começando a estudar um Framework de Python "Jango"
+* Terminando um curso técnico de "Análise e Desenvolvimento de Sistemas" 
+* Começando a estudar um framework de Python, o "Django"
 * Procurando mina 1° vaga de estagio da área
 
 ---
