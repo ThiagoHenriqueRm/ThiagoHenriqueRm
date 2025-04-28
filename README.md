@@ -13,7 +13,6 @@ Olá! Meu nome é **Thiago Henrique Rodrigues Moura**, tenho **18** anos e sou a
 
 
 - **Gmail :** Thiagohenriquerm@gmail.com
-- **Numero :**  +55 (38) 9754-8578
 - **Intagram :** [Thiago.kk_dev](https://www.instagram.com/thiago.kk_dev?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 ---
 ### Minhas Estatisticas :
@@ -25,3 +24,9 @@ Olá! Meu nome é **Thiago Henrique Rodrigues Moura**, tenho **18** anos e sou a
 </div>
 
 ---
+
+## Atualmente estou: 
+
+* Terminando um curso técnico de "Analise e Desenvolvimento de Sistemas " 
+* Começando a estudar um Framework de Python "Jango"
+* Procurando mina 1° vaga de estagio da área
