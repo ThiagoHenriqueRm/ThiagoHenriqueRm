@@ -22,8 +22,10 @@ Olá! Meu nome é **Thiago Henrique Rodrigues Moura**, tenho **18** anos e sou a
 <div align="center">
     <td  >
       <img height="160px" src="https://github-readme-stats.vercel.app/api?username=ThiagoHenriqueRm&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&rank_icon=github"/>
-    <td>ㅤ
+    <td>
       <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoHenriqueRm&layout=compact&theme=tokyonight&locale=pt-br&include_all_commits=true"/>
+    <td>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ThiagoHenriqueRm&include_all_commits=true&theme=tokyonight&locale=pt-br"/>
 </div>
 
 ---
