@@ -20,7 +20,7 @@ Olá! Meu nome é **Thiago Henrique Rodrigues Moura**, tenho **18** anos e sou a
 ### Minahs ferramentas:
 <img height="30px" src="https://devicon-website.vercel.app/api/ubuntu/plain.svg">ㅤ
 <img height="30px" src="https://devicon-website.vercel.app/api/vscode/original.svg">ㅤ
-
+<img height="30px" src="https://devicon-website.vercel.app/api/git/original.svg">ㅤ
 
 ---
 
