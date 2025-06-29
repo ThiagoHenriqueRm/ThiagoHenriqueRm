@@ -27,9 +27,13 @@ Olá! Meu nome é **Thiago Henrique Rodrigues Moura**, tenho **18** anos e sou a
 ---
 
 ### Meus Projetos mais legais:
-<details> <summary> Gerador de ambientes </summary>
+<details><summary>Gerador de Ambientes</summary>  
 
-- O [**Gerador de Ambientes**](https://github.com/ThiagoHenriqueRm/Gerador-De-Ambientes) é uma interface gráfica desenvolvida com `CustomTkinter` que automatiza a criação de projetos com ambientes virtuais em **Python**(usando `venv`) e **JavaScript**(com `Vite + React`).
+#### Descrição do Projeto :
+O Gerador de Ambientes é uma interface gráfica desenvolvida com `CustomTkinter` que automatiza a criação de projetos com ambientes virtuais em **Python**(usando `venv`) e **JavaScript**(com `Vite + React`).
+
+#### Acesse o repositório
+- [GitHib-Gerador de Ambientes](https://github.com/ThiagoHenriqueRm/Gerador-De-Ambientes)
 
 </details>
 
