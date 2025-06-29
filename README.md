@@ -7,7 +7,6 @@
 Olá! Meu nome é **Thiago Henrique Rodrigues Moura**, tenho **18** anos e sou apaixonado por tecnologia e programação e já tenho **4 anos de estudo** na área. Gosto principalmente de **Python**, mas também me dou bem com **JavaScript**, **HTML** e **CSS**. Atualmente estou fazendo um curso técnico e sempre buscando aprender coisas novas. 🚀
 
 [![](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thiago.kk_dev?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
-[![](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Thiagohenriquerm@gmail.com)
 ---
 
 ### Tehno experiencia com:
