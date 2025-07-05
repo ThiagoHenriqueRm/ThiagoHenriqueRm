@@ -17,12 +17,12 @@ Olá! Meu nome é **Thiago Henrique Rodrigues Moura**, tenho **18** anos e sou a
 <img height="30px" src="https://icongr.am/devicon/html5-original.svg?size=30&color=currentColor">ㅤ
 <img height="30px" src="https://icongr.am/devicon/css3-original.svg?size=30&color=currentColor">ㅤ
 
-
 ### Minahs ferramentas:
-<img height="30px" src="https://devicon-website.vercel.app/api/vscode/original.svg">ㅤ
-<img height="30px" src="https://devicon-website.vercel.app/api/ubuntu/plain.svg">ㅤ
-<img height="30px" src="https://devicon-website.vercel.app/api/git/original.svg">ㅤ
-<img height="30px" src="https://devicon-website.vercel.app/api/bash/original.svg">ㅤ
+
+<img height="30px" src="https://icongr.am/simple/visualstudiocode.svg?size=30&color=0877B9&colored=false">ㅤ
+<img height="30px" src="https://icongr.am/devicon/git-original.svg?size=30&color=currentColor">ㅤ
+<img height="30px" src="https://icongr.am/devicon/ubuntu-plain.svg?size=30&color=DD4814">ㅤ
+<img height="30px" src="https://icongr.am/simple/gnubash.svg?size=30&color=000000&colored=false">ㅤ
 
 ---
 
