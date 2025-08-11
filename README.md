@@ -27,6 +27,7 @@ Olá! Meu nome é **Thiago Henrique Rodrigues Moura**, tenho **18** anos e sou a
 ---
 
 ### Meus Projetos mais legais:
+
 <details><summary>Gerador de Ambientes</summary>  
 
 #### Descrição do Projeto :
@@ -34,6 +35,20 @@ O Gerador de Ambientes é uma interface gráfica desenvolvida com `CustomTkinter
 
 #### Acesse o repositório
 - [GitHub-Gerador de Ambientes](https://github.com/ThiagoHenriqueRm/Gerador-De-Ambientes)
+
+---
+
+</details>
+<details><summary>Gerador .deb</summary>  
+
+### Descrição do Projeto :
+Um aplicativo em **Python** com interface gráfica feita em [`customtkinter`](https://github.com/TomSchimansky/CustomTkinter) para facilitar a criação de pacotes `.deb` no Linux.  
+Ideal para desenvolvedores que querem gerar rapidamente pacotes Debian sem precisar escrever manualmente so arquivos `control` e `.desktop`.
+
+#### Acesse o repositório
+- [GitHub-Gerador-deb](https://github.com/ThiagoHenriqueRm/Gerador-deb)
+
+---
 
 </details>
 
