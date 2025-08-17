@@ -48,8 +48,6 @@ Ideal para desenvolvedores que querem gerar rapidamente pacotes Debian sem preci
 #### Acesse o repositório
 - [GitHub-Gerador-deb](https://github.com/ThiagoHenriqueRm/Gerador-deb)
 
----
-
 </details>
 
 ---
