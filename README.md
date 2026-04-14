@@ -4,7 +4,7 @@
 ### Sobre mim:
 - Estudante do curso **Técnico em Desenvolvimento de Sistemas** na PROZ Educação.
 
-Olá! Meu nome é **Thiago Henrique Rodrigues Moura**, tenho **18** anos e sou apaixonado por tecnologia e programação e já tenho **4 anos de estudo** na área. Gosto principalmente de **Python**, mas também me dou bem com **JavaScript**, **HTML** e **CSS**. Atualmente estou fazendo um curso técnico e sempre buscando aprender coisas novas. 🚀
+Olá! Meu nome é **Thiago Henrique Rodrigues Moura**, tenho **19** anos e sou apaixonado por tecnologia e programação e já tenho **5 anos de estudo** na área. Gosto principalmente de **Python**, mas também me dou bem com **JavaScript**, **HTML** e **CSS**. 
 
 [![](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thiago.kk_dev?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 ---
@@ -66,7 +66,4 @@ Ideal para desenvolvedores que querem gerar rapidamente pacotes Debian sem preci
 ### Atualmente estou: 
 
 * Terminando um curso técnico de "Análise e Desenvolvimento de Sistemas" 
-* Começando a estudar um framework de Python, o "Django"
-* Procurando minha 1° vaga de estágio da área
-
 ---
